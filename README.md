@@ -26,7 +26,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+https://i.imgur.com/VLbmNby.gifv
+
+
+https://user-images.githubusercontent.com/92393883/138075504-48f87fe8-d590-4845-91f7-01b715467603.mp4
 
 
 ## Notes

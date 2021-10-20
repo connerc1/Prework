@@ -28,8 +28,7 @@ The following **additional** features are implemented:
 
 https://i.imgur.com/VLbmNby.gifv
 
-
-https://user-images.githubusercontent.com/92393883/138075504-48f87fe8-d590-4845-91f7-01b715467603.mp4
+![Prework](https://user-images.githubusercontent.com/92393883/138075679-be209e6b-431e-499e-93fa-cb477920c0e5.gif)
 
 
 ## Notes

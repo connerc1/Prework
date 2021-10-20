@@ -1,10 +1,10 @@
-# Pre-work - The Basic Calculator
+# Pre-work - Basic Tip Calculator
 
-The Basic Calculator is a tip calculator application for iOS.
+The Basic Tip Calculator is a tip calculator application for iOS.
 
 Submitted by: Clarence Conner
 
-Time spent: 6  hours spent in total
+Time spent: 11  hours spent in total
 
 ## User Stories
 
@@ -31,7 +31,6 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Access to the proper computer and speed of the Apple Computer
 
 ## License
 
